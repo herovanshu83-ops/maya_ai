@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAYA</string>
+    <string name="assistant_wake_phrase">Hey Maya</string>
+    <string name="accessibility_service_description">MAYA Voice Assistant accessibility service allows hands-free device navigation, automated app actions, and voice-controlled taps.</string>
+    <string name="notification_channel_name">MAYA Voice Service</string>
+    <string name="notification_channel_description">Active background listening and assistant controls for MAYA</string>
+</resources>
